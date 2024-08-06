@@ -13,4 +13,6 @@
 
 ## Links
 
-* [my blog](http://www.csxiaoyao.com/blog/2017/01/01/ustc-np2016%E8%AF%BE%E7%A8%8B%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/)
+* [my blog](https://dev.to/jhparmar)
+* [my Youtube](https://www.youtube.com/channel/UCSLMS3odjPxesH02jnhWMnA)
+
