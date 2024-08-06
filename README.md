@@ -2,7 +2,7 @@
 
 * Identify the age, gender and various data of the blood routine test report from the picture of the blood routine test report
     * Image upload page, the submitted result is that the image is stored in the mongodb database and gets an OID or to the specified directory to a path
-    * Image recognition gets a json data and stores it in the mongodb database to get an OID, [json data][json data](https://coding.net/u/mengning/p/np2016/git/blob/master/BloodTestReportOCR/bloodtestdata.json)
+    * Image recognition gets a json data and stores it in the mongodb database to get an OID, [json data](https://coding.net/u/mengning/p/np2016/git/blob/master/BloodTestReportOCR/bloodtestdata.json)
        * Automatically capture the target area. Images with different rotation angles can be automatically prepared to capture the target area. However, the processing effect on oblique perspective images is not good. [Specific usage](https://coding.net/u/mengning/p/np2016/git/blob/master/BloodTestReportOCR/README.md)
        * Preprocessing, such as increasing contrast and sharpening
        * identify
